@@ -18,5 +18,5 @@ npm install
 npm start
 
 ## 🔗 Live Demo
-https://movie-database-app-delta.vercel.app
+🔗 **Live Demo:** [Click here](https://movie-database-app-delta.vercel.app)
 
